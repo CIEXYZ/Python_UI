@@ -1,0 +1,14 @@
+#emptyField{
+    background-color: #9c927b;
+    color: transparent;
+}
+
+#stone{
+    background-color: #383838;
+    color: transparent;
+}
+
+#cleared{
+    background-color: #a18360;
+    color: #000000;
+}
